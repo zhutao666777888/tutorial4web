@@ -1,0 +1,56 @@
+[
+    {
+      "firstName":"Tao",
+      "lastName":"Zhu",
+      "email":"2573779675@qq.com",
+      "dateOfBirth":"2004-7-26",
+      "address": {
+            "street": "xinhua street",
+            "city": "Langfang",
+            "state": "hebei",
+            "zipCode": "666"
+        },
+        "preferences": {
+            "theme": "pink",
+            "language": "Chinese",
+            "notifications": true,
+            "subscription": true
+        }
+    },
+    {
+        "firstName":"YIxin",
+        "lastName":"Zhang",
+        "email":"123456785@qq.com",
+        "dateOfBirth":"2004-8-14",
+        "address": {
+              "street": "xinhua street",
+              "city": "Langfang",
+              "state": "hebei",
+              "zipCode": "999"
+          },
+          "preferences": {
+              "theme": "Green",
+              "language": "Chinese",
+              "notifications": true,
+              "subscription": true
+          }
+      },
+      {
+        "firstName":"chenbo",
+        "lastName":"Jia",
+        "email":"299999@qq.com",
+        "dateOfBirth":"2004-2-40",
+        "address": {
+              "street": "xinhua street",
+              "city": "Langfang",
+              "state": "hebei",
+              "zipCode": "000"
+          },
+          "preferences": {
+              "theme": "boom",
+              "language": "Chinese",
+              "notifications": true,
+              "subscription": true
+          }
+      }
+]
